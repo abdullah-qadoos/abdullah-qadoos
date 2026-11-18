@@ -54,6 +54,11 @@ mindset:   build it, break it, ship it
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF5A1F"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF5A1F"/>
   <img src="https://img.shields.io/badge/Ladder_Logic-000000?style=for-the-badge&logo=siemens&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FF5A1F"/>
 </p>
 
 **AI / ML**
