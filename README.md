@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=FF1A1A&center=true&vCenter=true&width=650&lines=%3E+Building+multi-agent+systems;%3E+Automating+factories+%26+warehouses;%3E+PLC+%E2%86%92+Data+%E2%86%92+AI+pipelines;%3E+Shipping+code+6-8+hours+a+day" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=FF1A1A&center=true&vCenter=true&width=650&lines=%3E+Building+multi-agent+systems;%3E+Automating+anything%2C+end+to+end;%3E+PLC+%E2%86%92+Data+%E2%86%92+AI+pipelines;%3E+Shipping+code+6-8+hours+a+day" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 name:      Muhammad Abdullah Noor
 role:      AI Engineer — AI Agents & AI Automation
 base:      Lahore, Pakistan
-focus:     [multi-agent systems, workflow engines, RAG, industrial automation]
+focus:     [multi-agent systems, workflow engines, RAG, end-to-end automation]
 shipped:   [Unilever warehouse configurator, production planning automation, industrial RAG assistant]
 mindset:   build it, break it, ship it
 ```
@@ -34,11 +34,12 @@ mindset:   build it, break it, ship it
 
 | Project | What it does |
 |:--|:--|
-| 🟥 **Hivecell** | Multi-agent harness and workflow engine — my own n8n alternative |
-| 🟥 **doppel-pii** | PII and company-identifier redaction pipeline |
-| 🟥 **Pivotra** | AI fixes messy Excel layouts, then generates Power BI reports |
-| 🟥 **Lister** | AI eBay listing assistant — competitor matching, pricing, listing generation |
-| 🟥 **PLC Copilot** | Locally running AI for writing and debugging PLC code |
+| 🟥 [**Hivecell-Multiagent-Harness-Mesh**](https://github.com/abdullah-qadoos/Hivecell-Multiagent-Harness-Mesh) | Multi-agent coding harness with a built-in MCP coordination mesh |
+| 🟥 [**Pivotra-Excel-Solutions-Powerbi-builder**](https://github.com/abdullah-qadoos/Pivotra-Excel-Solutions-Powerbi-builder) | AI fixes messy Excel layouts, then generates Power BI reports |
+| 🟥 [**Ebay-listr**](https://github.com/abdullah-qadoos/Ebay-listr) | RAG eBay listing generator with vector search and competitor pricing |
+| 🟥 [**AI-Powered-ERP**](https://github.com/abdullah-qadoos/AI-Powered-ERP) | Ask a flour mill ERP questions in Urdu or English, with an LLM turning them into SQL |
+| 🟥 [**Pneumonia-Risk-Assistant**](https://github.com/abdullah-qadoos/Pneumonia-Risk-Assistant) | Two-stage pneumonia risk screening from wearable data, with an LLM and FastAPI |
+| 🟥 [**Pears-analyzer**](https://github.com/abdullah-qadoos/Pears-analyzer) | AI GPU cost analyzer |
 
 ---
 
