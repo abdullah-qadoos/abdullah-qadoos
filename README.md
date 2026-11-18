@@ -68,6 +68,27 @@ mindset:   build it, break it, ship it
   <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FF0000"/>
 </p>
 
+**AI Tools & Models**
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Higgsfield-000000?style=for-the-badge&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Mistral-000000?style=for-the-badge&logo=mistralai&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Llama-000000?style=for-the-badge&logo=meta&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Runway-000000?style=for-the-badge&logoColor=FF0000"/>
+</p>
+
 **Agents & Automation**
 
 <p>
