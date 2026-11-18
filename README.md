@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-abdullah-noor"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000"/></a>
   <a href="mailto:abdullahqadoos8@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000"/></a>
-  <img src="https://komarev.com/ghpvc/?username=abdullah-qadoos&style=for-the-badge&color=red&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=abdullah-qadoos&base=500&style=for-the-badge&color=red&label=PROFILE+VIEWS"/>
 </p>
 
 ---
