@@ -67,6 +67,24 @@ mindset:   build it, break it, ship it
   <img src="https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=FF5A1F"/>
   <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF5A1F"/>
   <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/spaCy-000000?style=for-the-badge&logo=spacy&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Presidio-000000?style=for-the-badge&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/GLiNER-000000?style=for-the-badge&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FF5A1F"/>
 </p>
 
 **AI Tools & Models**
@@ -98,6 +116,18 @@ mindset:   build it, break it, ship it
   <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=FF5A1F"/>
   <img src="https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logoColor=FF5A1F"/>
   <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Zapier-000000?style=for-the-badge&logo=zapier&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Power_Automate-000000?style=for-the-badge&logo=powerautomate&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/UiPath-000000?style=for-the-badge&logo=uipath&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logoColor=FF5A1F"/>
+  <img src="https://img.shields.io/badge/Web_Scraping-000000?style=for-the-badge&logoColor=FF5A1F"/>
 </p>
 
 **Backend & Data**
