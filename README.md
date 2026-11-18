@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="assets/header.svg" width="100%"/>
+  <img src="assets/header.svg?v=3" width="100%"/>
 </p>
 
 <p align="center">
@@ -133,5 +133,5 @@ mindset:   build it, break it, ship it
 ---
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%"/>
+  <img src="assets/footer.svg?v=3" width="100%"/>
 </p>
