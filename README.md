@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:8B0000,100:FF0000&height=220&section=header&text=MUHAMMAD%20ABDULLAH%20NOOR&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20%7C%20AI%20Agents%20%26%20Automation&descAlignY=62&descSize=18&animation=fadeIn&stroke=FF0000&strokeWidth=1" width="100%"/>
+  <img src="assets/header.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -111,5 +111,5 @@ mindset:   build it, break it, ship it
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=120&section=footer" width="100%"/>
+  <img src="assets/footer.svg" width="100%"/>
 </p>
