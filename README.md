@@ -35,6 +35,7 @@ mindset:   build it, break it, ship it
 | Project | What it does |
 |:--|:--|
 | 🟧 [**Hivecell-Multiagent-Harness-Mesh**](https://github.com/abdullah-qadoos/Hivecell-Multiagent-Harness-Mesh) | Multi-agent coding harness with a built-in MCP coordination mesh |
+| 🟧 [**parsimon-token-governor**](https://github.com/abdullah-qadoos/parsimon-token-governor) | Cache-aware token governor for Claude Code: shows where agent tokens go, cuts what gets re-sent every turn, and checks the agent's code |
 | 🟧 [**dopple-pii-cii-redaction**](https://github.com/abdullah-qadoos/dopple-pii-cii-redaction) | Local PII and company-data redactor for CSV, JSON, SQL dumps and Excel, with format-preserving fakes and a leak scan |
 | 🟧 [**Pivotra-Excel-Solutions-Powerbi-builder**](https://github.com/abdullah-qadoos/Pivotra-Excel-Solutions-Powerbi-builder) | AI fixes messy Excel layouts, then generates Power BI reports |
 | 🟧 [**Ebay-listr**](https://github.com/abdullah-qadoos/Ebay-listr) | RAG eBay listing generator with vector search and competitor pricing |
